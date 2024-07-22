@@ -5,6 +5,8 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=yuto-yoshimuta)](https://github.com/yuto-yoshimuta/github-profile-trophy)
 
 ![](https://komarev.com/ghpvc/?username=yuto-yoshimuta)
+[![My Qiita posts](https://qiita-badge.apiapi.app/s/adabana-saki/posts.svg)](http://qiita.com/adabana-saki)
+
 
 <!--
 **yuto-yoshimuta/yuto-yoshimuta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
