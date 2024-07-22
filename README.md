@@ -6,6 +6,7 @@
 
 ![](https://komarev.com/ghpvc/?username=yuto-yoshimuta)
 [![My Qiita posts](https://qiita-badge.apiapi.app/s/adabana-saki/posts.svg)](http://qiita.com/adabana-saki)
+[![My Qiita contributions](https://qiita-badge.apiapi.app/s/adabana-saki/contributions.svg)](http://qiita.com/adabana-saki)
 
 
 <!--
