@@ -1,8 +1,8 @@
 ## Hi there 👋
 
-[![モーリー's GitHub stats](https://github-readme-stats.vercel.app/api?username=mo-ri-regen&theme=vue-dark&show_icons=true)](https://github.com/mo-ri-regen/github-readme-stats)
+[![Yuto's GitHub stats](https://github-readme-stats.vercel.app/api?username=yuto-yoshimuta&theme=vue-dark&show_icons=true)](https://github.com/yuto-yoshimuta/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mo-ri-regen&theme=vue-dark&show_icons=true&layout=compact)](https://github.com/mo-ri-regen/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yuto-yoshimuta&theme=vue-dark&show_icons=true&layout=compact)](https://github.com/yuto-yoshimuta/github-readme-stats)
 
 <!--
 **yuto-yoshimuta/yuto-yoshimuta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
